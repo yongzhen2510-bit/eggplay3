@@ -1,0 +1,15 @@
+{
+  "name": "eggplaying",
+  "version": "1.0.0",
+  "main": "App.js",
+  "private": true,
+  "dependencies": {
+    "@react-native-async-storage/async-storage": "2.2.0",
+    "expo": "^55",
+    "expo-status-bar": "~55.0.6",
+    "react": "19.2.0",
+    "react-native": "0.83.10",
+    "react-native-safe-area-context": "~5.6.2",
+    "react-native-svg": "15.15.3"
+  }
+}
